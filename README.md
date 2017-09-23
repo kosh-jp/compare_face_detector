@@ -64,7 +64,7 @@ cd <find path above> #私の環境では/usr/local/opt/boost-python/lib/
 ln -s libboost_python3-mt.dylib libboost_python-mt.dylib
 ```
 
-仮想環境に入り、opencvとface_recognitionをpipで導入。  
+仮想環境に入り、opencvとface_recognitionを導入。  
 jupyterを起動します。
 
 ```
